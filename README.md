@@ -1,7 +1,8 @@
 # Security Controls
 
-Unlock Password I-Phone
-Location : My Phone
+# Unlock Password I-Phone
+
+# Location : My Phone
 ![image alt](https://github.com/ekkapongwa/security-controls/blob/main/lockpass.jpg?raw=true)
 
 # Type of Security Controls
